@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Furkan Cakmak</h1>
-<h3 align="center">Third year software engineering student focused on Backend Technologies and interested in Cloud.</h3>
 
 - 🔭 I’m currently working on **Elasticsearch**
 
